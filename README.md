@@ -5,7 +5,7 @@ In this course, students will survey fundamental data structures and many associ
 
 ## Projects
 
-(Project 1: Singly Linked Lists)[https://github.com/knagi0723/CSE331/tree/main/Project01]
+[Project 1: Singly Linked Lists](https://github.com/knagi0723/CSE331/tree/main/Project01)
 (Project 2: Doubly Linked Lists)[https://github.com/knagi0723/CSE331/tree/main/Project02]
 (Project 3: Sorting Algorithms)[https://github.com/knagi0723/CSE331/tree/main/Project03]
 (Project 4: Hash Tables)[https://github.com/knagi0723/CSE331/tree/main/Project04]
