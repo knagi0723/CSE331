@@ -17,4 +17,4 @@ In this course, students will survey fundamental data structures and many associ
 
 [Project 6: AVL Trees](https://github.com/knagi0723/CSE331/tree/main/Project06)
 
-[Project 7: Graphs-A*][(https://github.com/knagi0723/CSE331/tree/main/Project07)
+[Project 7: Graphs-A*](https://github.com/knagi0723/CSE331/tree/main/Project07)
